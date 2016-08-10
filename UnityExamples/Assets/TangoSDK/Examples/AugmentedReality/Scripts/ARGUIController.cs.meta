@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 78760276f84c94c678297fc65f4ec855
+timeCreated: 1470342969
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_prefabMarker: {fileID: 188320, guid: eca66899b90504167b643aadeaadf7e2, type: 2}
+  - m_prefabLogo: {fileID: 192426, guid: 9fbf7723fcfffe14a9c0ab00ff5c05d2, type: 2}
+  - m_prefabTouchEffect: {instanceID: 0}
+  - m_canvas: {instanceID: 0}
+  - m_pointCloud: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
