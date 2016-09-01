@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 258e1934124e52f40a00abcf9ab6cc77
+timeCreated: 1472478699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beck.D
+    100002: Beck.D_end
+    100004: Beck.U
+    100006: Beck.U_end
+    100008: Butt
+    100010: Butt_end
+    100012: Cresta.001
+    100014: Cresta.002
+    100016: Cresta.003
+    100018: Cresta.003_end
+    100020: EyeBlink
+    100022: EyeBlink_end
+    100024: Finger.L.1.1
+    100026: Finger.L.1.2
+    100028: Finger.L.1.2_end
+    100030: Finger.L.2.1
+    100032: Finger.L.2.2
+    100034: Finger.L.2.2_end
+    100036: Finger.L.3.1
+    100038: Finger.L.3.2
+    100040: Finger.L.3.2_end
+    100042: Finger.L.4.1
+    100044: Finger.L.4.2
+    100046: Finger.L.4.2_end
+    100048: Finger.R.1.1
+    100050: Finger.R.1.2
+    100052: Finger.R.1.2_end
+    100054: Finger.R.2.1
+    100056: Finger.R.2.2
+    100058: Finger.R.2.2_end
+    100060: Finger.R.3.1
+    100062: Finger.R.3.2
+    100064: Finger.R.3.2_end
+    100066: Finger.R.4.1
+    100068: Finger.R.4.2
+    100070: Finger.R.4.2_end
+    100072: FootBase.L
+    100074: FootBase.L_end
+    100076: FootBase.R
+    100078: FootBase.R_end
+    100080: //RootNode
+    100082: Head
+    100084: Hemi
+    100086: Hen
+    100088: Hips
+    100090: Leg.L
+    100092: Leg.R
+    100094: LegUp.L
+    100096: LegUp.R
+    100098: rig
+    100100: root
+    100102: Tail
+    100104: Tail_end
+    100106: Wing.L
+    100108: Wing.L.Pre
+    100110: Wing.L_end
+    100112: Wing.R
+    100114: Wing.R.Pre
+    100116: Wing.R_end
+    400000: Beck.D
+    400002: Beck.D_end
+    400004: Beck.U
+    400006: Beck.U_end
+    400008: Butt
+    400010: Butt_end
+    400012: Cresta.001
+    400014: Cresta.002
+    400016: Cresta.003
+    400018: Cresta.003_end
+    400020: EyeBlink
+    400022: EyeBlink_end
+    400024: Finger.L.1.1
+    400026: Finger.L.1.2
+    400028: Finger.L.1.2_end
+    400030: Finger.L.2.1
+    400032: Finger.L.2.2
+    400034: Finger.L.2.2_end
+    400036: Finger.L.3.1
+    400038: Finger.L.3.2
+    400040: Finger.L.3.2_end
+    400042: Finger.L.4.1
+    400044: Finger.L.4.2
+    400046: Finger.L.4.2_end
+    400048: Finger.R.1.1
+    400050: Finger.R.1.2
+    400052: Finger.R.1.2_end
+    400054: Finger.R.2.1
+    400056: Finger.R.2.2
+    400058: Finger.R.2.2_end
+    400060: Finger.R.3.1
+    400062: Finger.R.3.2
+    400064: Finger.R.3.2_end
+    400066: Finger.R.4.1
+    400068: Finger.R.4.2
+    400070: Finger.R.4.2_end
+    400072: FootBase.L
+    400074: FootBase.L_end
+    400076: FootBase.R
+    400078: FootBase.R_end
+    400080: //RootNode
+    400082: Head
+    400084: Hemi
+    400086: Hen
+    400088: Hips
+    400090: Leg.L
+    400092: Leg.R
+    400094: LegUp.L
+    400096: LegUp.R
+    400098: rig
+    400100: root
+    400102: Tail
+    400104: Tail_end
+    400106: Wing.L
+    400108: Wing.L.Pre
+    400110: Wing.L_end
+    400112: Wing.R
+    400114: Wing.R.Pre
+    400116: Wing.R_end
+    4300000: Hen
+    7400000: Idle.Look.R
+    7400002: Pick
+    7400004: Jump
+    7400006: Walk
+    7400008: Idle.Look.L.001
+    7400010: rig|CameraAction.003
+    7400012: rig|CloseFoot.L
+    7400014: rig|CloseFoot.R
+    7400016: rig|fly
+    7400018: rig|Idle.Look.L
+    7400020: rig|Idle.Look.L.001
+    7400022: rig|Idle.Look.R
+    7400024: rig|Jump
+    7400026: rig|Pick
+    7400028: rig|StandWalk
+    7400030: rig|Walk
+    7400032: rig|Walk.Back
+    7400034: Hen|CameraAction.003
+    9500000: //RootNode
+    13700000: Hen
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
